@@ -1,3 +1,4 @@
+# Not: Bu proje, Grover's algoritmasının temel bir uygulamasını sunmaktadır. Daha gelişmiş ve kapsamlı bir Grover's algoritması uygulaması görmek isterseniz, Grover's Search Repomuza göz atabilirsiniz.
 # Kuantum Devresi Simülasyonu
 Bu proje, Qiskit kütüphanesini kullanarak basit bir kuantum devresi oluşturmayı ve görselleştirmeyi amaçlayan bir Python Jupyter Notebook'udur (veya Colab Notebook'u). Kuantum hesaplamanın temel kavramlarını, özellikle süperpozisyon ve dolaşıklığı göstermektedir.
 
